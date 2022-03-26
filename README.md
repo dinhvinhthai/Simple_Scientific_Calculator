@@ -4,4 +4,4 @@
 <p>Kết quả:</p>
 <img src="Project2.png" width="200"/>
 <p>Tài liệu báo cáo: <a href="https://drive.google.com/file/d/1pJBAkK4ttvYaNEs2oY-Drg5Zn4SwWL4W/view?usp=sharing" target = "_blank">Tại đây</a></p>
-<p>Video demo: <a href="https://drive.google.com/file/d/1pJBAkK4ttvYaNEs2oY-Drg5Zn4SwWL4W/view?usp=sharing" target = "_blank">Tại đây</a></p>
+<p>Video demo: <a href="https://drive.google.com/file/d/19ZZAhKRRw8PwXAs8s_TiyBDg-mZsUPfe/view?usp=sharing" target = "_blank">Tại đây</a></p>
